@@ -3,7 +3,7 @@
 
 > A magical, animated, and emotionally connected virtual celebration space to celebrate birthdays with family and friends—especially when you’re far apart.
 
-Demo : https://github.com/krishianjan/virtual-cake-party/blob/main/vitual_maker.gif
+Demo :
 
 
 🪄 Project Vision
