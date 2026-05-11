@@ -4,8 +4,7 @@
 > A magical, animated, and emotionally connected virtual celebration space to celebrate birthdays with family and friends—especially when you’re far apart.
 
 Demo : 
-<img width="208" height="130" alt="Image" src="https://github.com/user-attachments/assets/28303056-1897-46ac-8b30-6c781fca55f2" />
-
+<img src="https://github.com/user-attachments/assets/28303056-1897-46ac-8b30-6c781fca55f2" alt="Demo of my project" width="500" />   
 
 🪄 Project Vision
 
